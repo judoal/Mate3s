@@ -9,4 +9,4 @@ The first thing that was observed was the browser did not refresh the data requi
           
 The initial commit shows the initial code for developing an extraction program.  It is not complete, but is the POC for this project.  Graphing the data is a different animal, since I have not been very good at developing graphics routines in python.  I would like to create a stripchart recorder to display the periodic data, where current time is on the right axis.  However, I have experience with the opensource java charting program, JFreeChart, an amd thinking of piping the data to a java app for graphing.
 
-          
+This update modifies and incorporates a matplotlib script that did not have any licensing limitations. It is a work in progress since the plotting portion is not working yet.
